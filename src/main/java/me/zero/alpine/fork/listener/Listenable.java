@@ -1,6 +1,6 @@
-package me.zero.alpine.listener;
+package me.zero.alpine.fork.listener;
 
-import me.zero.alpine.bus.EventBus;
+import me.zero.alpine.fork.bus.EventBus;
 
 /**
  * An interface that must be implemented by a class in order for it to

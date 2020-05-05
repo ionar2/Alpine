@@ -1,4 +1,4 @@
-package me.zero.alpine.event.type;
+package me.zero.alpine.fork.event.type;
 
 /**
  * A type of event that can be cancelled. The exact effect of cancelling an event

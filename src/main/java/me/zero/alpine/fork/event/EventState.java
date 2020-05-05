@@ -1,4 +1,4 @@
-package me.zero.alpine.event;
+package me.zero.alpine.fork.event;
 
 /**
  * The state of an event

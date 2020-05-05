@@ -1,9 +1,10 @@
-package me.zero.alpine.listener;
+package me.zero.alpine.fork.listener;
 
-import me.zero.alpine.event.EventPriority;
 import net.jodah.typetools.TypeResolver;
 
 import java.util.function.Predicate;
+
+import me.zero.alpine.fork.event.EventPriority;
 
 /**
  * A wrapper body that is used to define new event listeners. When a body is a method reference,

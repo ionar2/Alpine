@@ -1,6 +1,6 @@
-package me.zero.alpine.bus.type;
+package me.zero.alpine.fork.bus.type;
 
-import me.zero.alpine.bus.EventBus;
+import me.zero.alpine.fork.bus.EventBus;
 
 /**
  * A type of {@link EventBus} that can have child event buses

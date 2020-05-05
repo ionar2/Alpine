@@ -1,6 +1,6 @@
-package me.zero.alpine.event;
+package me.zero.alpine.fork.event;
 
-import me.zero.alpine.listener.Listener;
+import me.zero.alpine.fork.listener.Listener;
 
 /**
  * Definitions of all of the default priority values. By default, a {@link Listener}

@@ -1,4 +1,4 @@
-package me.zero.alpine.event.type;
+package me.zero.alpine.fork.event.type;
 
 /**
  * Implementation of {@link ICancellable}
